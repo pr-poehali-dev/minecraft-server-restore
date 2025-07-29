@@ -240,7 +240,7 @@ const Index = () => {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="space-y-2">
                 <h3 className="font-semibold text-green-400">IP Адрес</h3>
-                <p className="text-white bg-slate-700/50 px-3 py-2 rounded font-mono">mc.gaming4free.ru</p>
+                <p className="text-white bg-slate-700/50 px-3 py-2 rounded font-mono">138.201.48.55:26112</p>
               </div>
               <div className="space-y-2">
                 <h3 className="font-semibold text-green-400">Версия</h3>
